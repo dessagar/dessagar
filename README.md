@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="170">
-      <img src="https://github.com/dessagar/dessagar/blob/main/sagar.jpg?raw=true" width="150" style="border-radius: 10px;" alt="Sagar Deshmukh Photo">
+      <img src="https://github.com/dessagar/dessagar/blob/main/Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" style="border-radius: 10px;" alt="Sagar Deshmukh Photo">
     </td>
     <td>
       <h1>Hi 👋, I'm Sagar Deshmukh</h1>
@@ -9,6 +9,7 @@
     </td>
   </tr>
 </table>
+
 
 
 - 📚 Pursuing B.E. in Computer Engineering from University of Pune (2022–2025)
