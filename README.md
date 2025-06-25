@@ -1,22 +1,26 @@
-<table>
+
+  <table>
   <tr>
     <td width="170">
-      <img src="https://github.com/dessagar/dessagar/blob/main/Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" style="border-radius: 10px;" alt="Sagar Deshmukh Photo">
+      <div style="width:150px;height:150px;overflow:hidden;border-radius:50%;">
+        <img src="https://github.com/dessagar/dessagar/blob/main/  Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" alt="Sagar Deshmukh Photo">
+      </div>
     </td>
     <td>
       <h1>Hi 👋, I'm Sagar Deshmukh</h1>
-      <h3>Computer Engineering Graduate | Full Stack Java Developer | MERN Stack Developer |  AI-ML Enthusiast</h3>
+      <h3>Computer Engineering Graduate | Java Full Stack Developer | MERN Stack Developer</h3>
     </td>
   </tr>
 </table>
 
 
 
-- 📚 Pursuing B.E. in Computer Engineering from University of Pune (2022–2025)
+
+- 📚 Completed B.E. in Computer Engineering from University of Pune (2022–2025)
 - 💻 Experienced in developing scalable enterprise and ML-based solutions
 - 🔭 Currently working on: Smart Predictive Maintenance System & AI Cost Optimization Platforms
 - 🌱 Currently learning: Spring Boot, Cloud Technologies (AWS, Oracle), and DevOps
-- 💬 Ask me about: Java, Python, ML, Cybersecurity Automation, Cloud Platforms
+- 💬 Ask me about: Java, Python, Angular, React, ML, Cybersecurity Automation, Cloud Platforms
 - 📫 Reach me at: **d.sagar2243@gmail.com**
 
 ---
