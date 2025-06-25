@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/dessagar/dessagar/blob/main/Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Sagar's Photo"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sagar Deshmukh</h1>
 <h3 align="center">Final Year B.E. Computer Engineering Student | Full Stack Java Developer | AI-ML Enthusiast</h3>
 
