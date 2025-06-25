@@ -3,7 +3,7 @@
   <tr>
     <td width="170">
       <div style="width:150px;height:150px;overflow:hidden;border-radius:50%;">
-        <img src="https://github.com/dessagar/dessagar/blob/main/  Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" alt="Sagar Deshmukh Photo">
+        <img src="https://github.com/dessagar/dessagar/blob/main/Sagar Deshmukh_Passport Photo.jpg?raw=true" width="150" alt="Sagar Deshmukh Photo">
       </div>
     </td>
     <td>
