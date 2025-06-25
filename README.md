@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>Hi 👋, I'm Sagar Deshmukh</h1>
-      <h3>Final Year B.E. Computer Engineering Student | Full Stack Java Developer | AI-ML Enthusiast</h3>
+      <h3>Computer Engineering Graduate | Full Stack Java Developer | MERN Stack Developer |  AI-ML Enthusiast</h3>
     </td>
   </tr>
 </table>
